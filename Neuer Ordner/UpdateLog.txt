@@ -1,0 +1,24 @@
+0.1:
+	-steine erscheinen
+	-figuren erscheinen
+	-spielfeld beweglich
+0.1.1:
+	-figuren können nicht auf steinen spawnen
+0.2:
+	-Texte für stein und holz
+0.3:
+	-Figuren werden mit maus markiert
+0.3.1:
+	-Figuren können mit der maus verschoben werden
+	-Figuren stoßen sich bei zu wenig platz nach links und rechts ab
+0.4:
+	-figuren auf steinen produzieren alle 500 frames (10 sekunden) einen stein
+	-sobald sie sich nicht mehr auf stein befinden produzieren sie keine steine mehr
+0.4.1:
+	-bäume werden angezeigt
+	-figuren auf bäumen produzieren holz (10 sekunden)
+0.4.2:
+	-stein und holz grafik neben text anzeige
+	-generellen zeit verlust in frames durch messen des zeitverlustes verhindern
+	-bug fix: das spiel dachte immer dass bäume existieren. 
+	 wenn es keinen baum gab erschien kein neuer
